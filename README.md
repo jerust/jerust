@@ -1,0 +1,5 @@
+- 👋 Hi, I'm jerust
+- 👀 I'm a rust fanatic and working towards creating a historic open source project one day
+- 🌱 I sincerely hope that rust will develop better and better in the near future
+- 💞️ I'm looking to collaborate on rust projects and open source contributions
+- 📫 How to reach me: jerust@163.com
