@@ -62,9 +62,15 @@
   <img src="https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code"/>
   <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3"/>
   <img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"/>
   <img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab"/>
-  <img src="https://img.shields.io/badge/-Git-purple?style=flat-square&logo=git&logoColor=%23ffffff"/>
+  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
+  <img src="https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis"/>
+  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql"/>
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql"/>
+  <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
+  <img src="https://img.shields.io/badge/-Oracle-black?style=flat-square&logo=oracle"/>
+  <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker"/>
 </p>
 
 <p align = "center">
