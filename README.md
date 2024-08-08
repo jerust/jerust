@@ -41,6 +41,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jerust&show_icons=true&theme=tokyonight" />
 </div>
 
+<!-- 联系我 -->
 <h2 align="center">Reach Me On <img src="https://img-blog.csdnimg.cn/f7384c88956d4378b72e47548e19c9f8.gif" alt="f7384c88956d4378b72e47548e19c9f8.gif" width="50" /></h2>
 <p align="center">
   <a href="https://app.yinxiang.com/fx/8aa8eb1b-7d45-4793-a160-b990d9da2e75"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E6%B5%B7%E6%8B%A5-blueviolet" alt="%E5%85%AC%E4%BC%97%E5%8F%B7-%E6%B5%B7%E6%8B%A5-blueviolet" /></a>
@@ -52,6 +53,7 @@
 <a href="https://app.yinxiang.com/fx/8aa8eb1b-7d45-4793-a160-b990d9da2e75"><img src="https://img.shields.io/badge/wechat-%E5%BE%AE%E4%BF%A1-blue" alt="wechat-%E5%BE%AE%E4%BF%A1-blue" /></a>
 </p>
 
+<!-- 技术栈 -->
 <h2 align="center">Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 <p align="center">
   <img src="https://img.shields.io/badge/-Rust-%23E44D27?style=flat-square&logo=rust&logoColor=ffffff"/>
@@ -65,20 +67,6 @@
   <img src="https://img.shields.io/badge/-Git-purple?style=flat-square&logo=git&logoColor=%23ffffff"/>
 </p>
 
-
-
-
-
-
-
 <p align = "center">
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=jerust&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p>
-
-
-
-个人简介：CSDN原力计划作者，掘金优秀作者，资讯创作者，公众号【海拥】，全网粉丝12万+。我是一个爱好计算机科学，求索于逻辑思维的同时不忘哲学和浪漫主义科学，乐于分享技术与快乐的博主。博文内容涉及Java，Python，HTML/CSS/JS及SEO，数据结构等。
-
-
-
-
