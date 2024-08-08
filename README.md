@@ -33,7 +33,7 @@
 
 <div align="center">
   <a href="https://github.com/jerust/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerust&layout=compact&theme=tokyonight" alt="Top Langs" />
   </a>
 </div>
 
