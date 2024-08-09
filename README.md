@@ -122,7 +122,7 @@
 
 ![graph](https://github-readme-activity-graph.vercel.app/graph?username=jerust&bg_color=0000000&color=2980b9&line=2980b9&point=27ae60&area_color=2980b9&area=true&hide_border=true)
 
-<link rel="stylesheet" href="/assets/css/markdown.css">
+<link rel="stylesheet" href="markdown.css">
 
 <div id="markdown">
   <img src="https://github-contributor-stats.vercel.app/api?username=jerust&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true" alt="GitHub Contributor Stats" style="display: inline-block;" />
