@@ -86,7 +86,6 @@
   <img src="https://img.shields.io/badge/SciPy-%230C55A5?style=flat-square&logo=scipy&logoColor=%white"/>
   <img src="https://img.shields.io/badge/pandas-%23150458?style=flat-square&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/numpy-%23013243?style=flat-square&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff?style=flat-square&logo=Matplotlib&logoColor=black"/>
   <img src="https://img.shields.io/badge/django-%23092E20?style=flat-square&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/flask-%23000?style=flat-square&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Anaconda-%2344A833?style=flat-square&logo=anaconda&logoColor=white"/>
@@ -97,7 +96,6 @@
   <img src="https://img.shields.io/badge/pycharm-143?style=flat-square&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
   <img src="https://img.shields.io/badge/jupyter-%23FA0F00?style=flat-square&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notepad++-90E59A?style=flat-square&logo=notepad%2b%2b&logoColor=black"/>
-  <img src="https://img.shields.io/badge/yaml-%23ffffff?style=flat-square&logo=yaml&logoColor=151515"/>
   <img src="https://img.shields.io/badge/markdown-%23000000?style=flat-square&logo=markdown&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Reddit-%23FF4500?style=flat-square&logo=Reddit&logoColor=white"/>
@@ -110,7 +108,6 @@
   <img src="https://img.shields.io/badge/openSUSE-%2364B345?style=flat-square&logo=openSUSE&logoColor=white"/>
   <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=flat-square&logo=redhat&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"/>
 </p>
 
 <!-- 
@@ -128,7 +125,4 @@
 
 ![graph](https://github-readme-activity-graph.vercel.app/graph?username=jerust&bg_color=0000000&color=2980b9&line=2980b9&point=27ae60&area_color=2980b9&area=true&hide_border=true)
 
-<div id="markdown">
-  <img src="https://github-contributor-stats.vercel.app/api?username=jerust&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true" alt="GitHub Contributor Stats" style="display: inline-block;" />
-  <img src="https://streak-stats.demolab.com/?user=jerust&hide_border=true&background=00000000&border=2980b9&stroke=2980b9&ring=27ae60&fire=27ae60&currStreakNum=2980b9&sideNums=2980b9&currStreakLabel=2980b9&sideLabels=2980b9&dates=2980b9" alt="GitHub Streak Stats" style="display: inline-block;" />
-</div>
+
