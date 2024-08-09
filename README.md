@@ -31,11 +31,13 @@
   </marquee>
 </h2>
 
+<!--
 <div align="center">
   <a href="https://github.com/jerust/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerust&layout=compact&theme=tokyonight" alt="Top Langs" />
   </a>
 </div>
+-->
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jerust&show_icons=true&theme=tokyonight" />
