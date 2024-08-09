@@ -1,9 +1,3 @@
-<style>
-  #markdown{
-    display: flex;
-  }
-</style>
-
 - 👋 Hi, I'm jerust
 - 👀 I'm a rust fanatic and working towards creating a historic open source project one day
 - 🌱 I sincerely hope that rust will develop better and better in the near future
@@ -116,9 +110,12 @@
 </p>
 -->
 
-<!-- 
+<div srtyle="display:flex;">
+  <img src="https://github-contributor-stats.vercel.app/api?username=jerust&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true">
+  <img src="https://streak-stats.demolab.com/?user=jerust&hide_border=true&background=00000000&border=2980b9&stroke=2980b9&ring=27ae60&fire=27ae60&currStreakNum=2980b9&sideNums=2980b9&currStreakLabel=2980b9&sideLabels=2980b9&dates=2980b9">
+</div>
 
-
+<!--
 ![streak](https://github-contributor-stats.vercel.app/api?username=jerust&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true)
 ![streak](https://streak-stats.demolab.com/?user=jerust&hide_border=true&background=00000000&border=2980b9&stroke=2980b9&ring=27ae60&fire=27ae60&currStreakNum=2980b9&sideNums=2980b9&currStreakLabel=2980b9&sideLabels=2980b9&dates=2980b9)
 -->
