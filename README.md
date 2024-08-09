@@ -89,15 +89,6 @@
 ![graph](https://github-readme-activity-graph.vercel.app/graph?username=jerust&bg_color=0000000&color=2980b9&line=2980b9&point=27ae60&area_color=2980b9&area=true&hide_border=true)
 
 <div>
-  <img src="https://github-contributor-stats.vercel.app/api?username=jerust&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true" alt="GitHub Contributor Stats" style="display: inline-block; margin-right: 10px;" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=jerust&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true" alt="GitHub Contributor Stats" style="display: inline-block;" />
   <img src="https://streak-stats.demolab.com/?user=jerust&hide_border=true&background=00000000&border=2980b9&stroke=2980b9&ring=27ae60&fire=27ae60&currStreakNum=2980b9&sideNums=2980b9&currStreakLabel=2980b9&sideLabels=2980b9&dates=2980b9" alt="GitHub Streak Stats" style="display: inline-block;" />
-</div>
-
-<div align="center">
-  <div style="display: inline-block;">
-    <img src="https://github-contributor-stats.vercel.app/api?username=jerust&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true" alt="GitHub Contributor Stats" />
-  </div>
-  <div style="display: inline-block;">
-    <img src="https://streak-stats.demolab.com/?user=jerust&hide_border=true&background=00000000&border=2980b9&stroke=2980b9&ring=27ae60&fire=27ae60&currStreakNum=2980b9&sideNums=2980b9&currStreakLabel=2980b9&sideLabels=2980b9&dates=2980b9" alt="GitHub Streak Stats" />
-  </div>
 </div>
