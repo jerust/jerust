@@ -59,18 +59,52 @@
   <img src="https://img.shields.io/badge/-Rust-%23E44D27?style=flat-square&logo=rust&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/-Go-blue?style=flat-square&logo=go&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/-Python-%23E44D27?style=flat-square&logo=python&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code"/>
-  <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3"/>
+  <img src="https://img.shields.io/badge/c-%2300599C?style=flat-square&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/c++-%2300599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3"/>
+  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"/>
   <img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab"/>
-  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
   <img src="https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis"/>
-  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql"/>
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql"/>
   <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
   <img src="https://img.shields.io/badge/-Oracle-black?style=flat-square&logo=oracle"/>
+  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql"/>
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql"/>
   <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker"/>
+  <img src="https://img.shields.io/badge/-Nginx-%23009639?style=flat-square&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-%23D00000?style=flat-square&logo=Keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SciPy-%230C55A5?style=flat-square&logo=scipy&logoColor=%white"/>
+  <img src="https://img.shields.io/badge/pandas-%23150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/numpy-%23013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff?style=flat-square&logo=Matplotlib&logoColor=black"/>
+  <img src="https://img.shields.io/badge/django-%23092E20?style=flat-square&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/flask-%23000?style=flat-square&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Anaconda-%2344A833?style=flat-square&logo=anaconda&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code"/>
+  <img src="https://img.shields.io/badge/VIM-%2311AB00?style=flat-square&logo=vim&logoColor=white"/>
+  <img src="https://img.shields.io/badge/sublime_text-%23575757?style=flat-square&logo=sublime-text&logoColor=important"/>
+  <img src="https://img.shields.io/badge/CLion-black?style=flat-square&logo=clion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pycharm-143?style=flat-square&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
+  <img src="https://img.shields.io/badge/jupyter-%23FA0F00?style=flat-square&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notepad++-90E59A?style=flat-square&logo=notepad%2b%2b&logoColor=black"/>
+  <img src="https://img.shields.io/badge/yaml-%23ffffff?style=flat-square&logo=yaml&logoColor=151515"/>
+  <img src="https://img.shields.io/badge/markdown-%23000000?style=flat-square&logo=markdown&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Reddit-%23FF4500?style=flat-square&logo=Reddit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kaggle-035a7d?style=flat-square&logo=kaggle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat-square"/>
+  <img src="https://img.shields.io/badge/cent%20os-002260?style=flat-square&logo=centos&logoColor=F0F0F0"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/mac%20os-000000?style=flat-square&logo=macos&logoColor=F0F0F0"/>
+  <img src="https://img.shields.io/badge/-OpenBSD-%23FCC771?style=flat-square&logo=openbsd&logoColor=black"/>
+  <img src="https://img.shields.io/badge/openSUSE-%2364B345?style=flat-square&logo=openSUSE&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=flat-square&logo=redhat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"/>
 </p>
 
 <!-- 
