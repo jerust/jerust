@@ -73,6 +73,13 @@
   <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker"/>
 </p>
 
+<!-- 
 <p align = "center">
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=jerust&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p>
+-->
+
+![graph](https://github-readme-activity-graph.vercel.app/graph?username=jerust&bg_color=0000000&color=2980b9&line=2980b9&point=27ae60&area_color=2980b9&area=true&hide_border=true)
+
+![streak](https://github-contributor-stats.vercel.app/api?username=jerust&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true)
+![streak](https://streak-stats.demolab.com/?user=jerust&hide_border=true&background=00000000&border=2980b9&stroke=2980b9&ring=27ae60&fire=27ae60&currStreakNum=2980b9&sideNums=2980b9&currStreakLabel=2980b9&sideLabels=2980b9&dates=2980b9)
