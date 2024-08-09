@@ -111,15 +111,8 @@
 -->
 
 <div style="display: flex; width:100%">
-  <img style="width:45%" src="https://github-contributor-stats.vercel.app/api?username=jerust&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true">
-  <img style="width:45%" src="https://streak-stats.demolab.com/?user=jerust&hide_border=true&background=00000000&border=2980b9&stroke=2980b9&ring=27ae60&fire=27ae60&currStreakNum=2980b9&sideNums=2980b9&currStreakLabel=2980b9&sideLabels=2980b9&dates=2980b9">
+  <img style="width:48%" src="https://github-contributor-stats.vercel.app/api?username=jerust&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true">
+  <img style="width:48%" src="https://streak-stats.demolab.com/?user=jerust&hide_border=true&background=00000000&border=2980b9&stroke=2980b9&ring=27ae60&fire=27ae60&currStreakNum=2980b9&sideNums=2980b9&currStreakLabel=2980b9&sideLabels=2980b9&dates=2980b9">
 </div>
 
-<!--
-![streak](https://github-contributor-stats.vercel.app/api?username=jerust&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true)
-![streak](https://streak-stats.demolab.com/?user=jerust&hide_border=true&background=00000000&border=2980b9&stroke=2980b9&ring=27ae60&fire=27ae60&currStreakNum=2980b9&sideNums=2980b9&currStreakLabel=2980b9&sideLabels=2980b9&dates=2980b9)
--->
-
 ![graph](https://github-readme-activity-graph.vercel.app/graph?username=jerust&bg_color=0000000&color=2980b9&line=2980b9&point=27ae60&area_color=2980b9&area=true&hide_border=true)
-
-
