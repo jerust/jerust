@@ -16,8 +16,8 @@
       <font color="#6fcde6">斯</font>
       <font color="#72e6b6">特</font>
       <font color="#72e689">的</font>
-      <font color="#99e670">家</font>
-      <font color="#cde670">!</font>
+      <font color="#99e670">小</font>
+      <font color="#99e670">屋</font>
     </b> 
   </marquee>
 </h2>
